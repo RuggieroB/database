@@ -5,8 +5,3 @@
 	
 		- 1° Database:
 			"database1": Gestione Clienti, Fatture, Prodotti.
-			
-			
-		- 2° Database:
-			"database2": Database studenti. 
-					Gestione Studenti.
