@@ -4,4 +4,4 @@
 	
 	
 		- 3° Database:
-			"database3": Gestione Clienti e prenotazioni alberghiere.
+			"database3": Gestione clienti e prenotazioni alberghiere.
