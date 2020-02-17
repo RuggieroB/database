@@ -1,6 +1,6 @@
-# database
+﻿# database
 
-	Database-Informatica Generale ed Applicazione Tecnico-Scientifica AS: 2019/2020.
+	Database-Informatica Generale ed Applicazione Tecnico-Scientifica AS: 2019/2020 (NB: Proseguono in MS-Acces ed in MySQL).
 	
 	
 		- 1° Database:
